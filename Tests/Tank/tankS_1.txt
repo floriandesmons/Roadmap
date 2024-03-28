@@ -1,0 +1,5 @@
+xinit_CO2_tank1_param 0.7
+Tinit_CO2_tank1_param 288.15
+Vtot_CO2_tank1_param 1.0
+ts_CO2_tank1_param 0.5
+Q_in 30000.0

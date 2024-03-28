@@ -1,0 +1,3 @@
+tankC_1.txt classTankC
+pipe_1.txt classPipes
+tankS_1.txt classTankS
